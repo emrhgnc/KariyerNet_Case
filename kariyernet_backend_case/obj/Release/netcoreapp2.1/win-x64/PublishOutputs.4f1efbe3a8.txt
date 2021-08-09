@@ -1,0 +1,11 @@
+C:\Users\Emrah\source\repos\kariyernet_backend_case\kariyernet_backend_case\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\kariyernet_backend_case.exe
+C:\Users\Emrah\source\repos\kariyernet_backend_case\kariyernet_backend_case\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\Emrah\source\repos\kariyernet_backend_case\kariyernet_backend_case\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\appsettings.json
+C:\Users\Emrah\source\repos\kariyernet_backend_case\kariyernet_backend_case\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\kariyernet_backend_case.dll
+C:\Users\Emrah\source\repos\kariyernet_backend_case\kariyernet_backend_case\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\kariyernet_backend_case.runtimeconfig.json
+C:\Users\Emrah\source\repos\kariyernet_backend_case\kariyernet_backend_case\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\kariyernet_backend_case.pdb
+C:\Users\Emrah\source\repos\kariyernet_backend_case\kariyernet_backend_case\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\DnsClient.dll
+C:\Users\Emrah\source\repos\kariyernet_backend_case\kariyernet_backend_case\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\MongoDB.Bson.dll
+C:\Users\Emrah\source\repos\kariyernet_backend_case\kariyernet_backend_case\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\MongoDB.Driver.dll
+C:\Users\Emrah\source\repos\kariyernet_backend_case\kariyernet_backend_case\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\MongoDB.Driver.Core.dll
+C:\Users\Emrah\source\repos\kariyernet_backend_case\kariyernet_backend_case\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\kariyernet_backend_case.deps.json
